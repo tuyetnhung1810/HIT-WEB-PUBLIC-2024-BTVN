@@ -1,0 +1,111 @@
+.h0{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: black;
+    font-size: 12px;
+}
+.h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: black;
+    font-size: 12px;
+}
+.box{
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 10%;
+    background-color: blanchedalmond;
+    height: 380px;
+}
+.box1{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    border-width: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 250%;
+    height: 1cm;
+    background-color: aliceblue;
+
+}
+.box2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    border-width: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 250%;
+    height: 1cm;
+    background-color: aliceblue;
+
+
+}
+.h3{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    padding-left: 0.25cm;
+    color: black;
+    border-width: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 250%;
+    height: 1cm;
+    background-color: aliceblue;
+
+}
+.h4{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-left: 0.25cm;
+    color: black;
+    border-width: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 250%;
+    height: 1cm;
+    background-color: aliceblue;
+}
+.h5{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+    margin-top: 5px;
+    padding-left: 0.25cm;
+    color: black;
+    border-width: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 250%;
+    height: 1cm;
+    text-align: center;
+    color: white;
+    padding-bottom: 5px;
+    
+}
+body{
+    background-color: white;
+}
